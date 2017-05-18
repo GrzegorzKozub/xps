@@ -20,3 +20,7 @@ The script prevents the following apps from running on startup:
 You will see the last three apps from the above list disabled in task manager under Startup tab.
 
 The script is not destructive so you will be able to re-enable any scheduled task, service and task manager app it disables.
+
+## Disable Connected Standby
+
+Run `DisableConnectedStandby.reg` to disable Connected Standby. Saves battery.
